@@ -1,0 +1,6 @@
+ID,Name,Grade,Fees Paid,Total Fees
+S101,Alice,5th,2000,5000
+S102,Bob,6th,3500,5000
+S103,Charlie,7th,5000,5000
+S104,David,8th,1000,6000
+S105,Emma,9th,4000,7000
